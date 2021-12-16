@@ -58,5 +58,6 @@ turtle.onscreenclick(screenLeftClick, 1)
 turtle.onscreenclick(screenRightClick, 3) #register right click
 
 turtle.done()
+// same as previous code except when you click right, it erases everything
 
 
